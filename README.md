@@ -21,12 +21,10 @@
       <button class="navbuttons">Ships</button>
     </a>
     </div>
-
     <div class="container">
       <div class="sidebar">
         <p>This is where I could potentially put an ad</p>
       </div>
-      
       <div class="main">
         <h2 style="opacity:0.9;">HOW TO MAKE AN ARL-44</h2>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/ARL-44.jpg/250px-ARL-44.jpg" width="710" style="opacity:0.9;">
