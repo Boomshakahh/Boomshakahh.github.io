@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -8,18 +7,18 @@
   <body>
     <div class="topbar">
       <h1>THE TANK CHEF<h1>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-      <button class="navbuttons">Home</button>
-    </a>
-    <a href="https://www.youtube.com/watch?v=dmeJUfOQo90">
-      <button class="navbuttons">Airplanes</button>
-    </a>
-    <a href="https://www.youtube.com/watch?v=I_0U5thy31o">
-      <button class="navbuttons">Tanks</button>
-    </a>
-    <a href="https://www.youtube.com/shorts/CijSy6TpS8A">
-      <button class="navbuttons">Ships</button>
-    </a>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <button class="navbuttons">Home</button>
+      </a>
+      <a href="https://www.youtube.com/watch?v=dmeJUfOQo90">
+        <button class="navbuttons">Airplanes</button>
+      </a>
+      <a href="https://www.youtube.com/watch?v=I_0U5thy31o">
+        <button class="navbuttons">Tanks</button>
+      </a>
+      <a href="https://www.youtube.com/shorts/CijSy6TpS8A">
+        <button class="navbuttons">Ships</button>
+      </a>
     </div>
     <div class="container">
       <div class="sidebar">
